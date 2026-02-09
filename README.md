@@ -1,5 +1,5 @@
-git clone [https://github.com/JavierYago/detector-de-gestos](https://github.com/TU_USUARIO/detector-de-gestos)
-git clone [https://github.com/JavierYago/detector-de-gestos](https://github.com/YOUR_USERNAME/detector-de-gestos)
+git clone [https://github.com/JavierYago/detector_de_gestos.git](https://github.com/JavierYago/detector_de_gestos.git)
+git clone [https://github.com/JavierYago/detector_de_gestos.git](https://github.com/JavierYago/detector_de_gestos.git)
 # 🖐️ AI Hand Gesture Controller / Control por Gestos con IA
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
