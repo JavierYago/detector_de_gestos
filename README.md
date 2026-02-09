@@ -38,7 +38,7 @@ Necesitas tener **Python 3.10** instalado (recomendado para compatibilidad con M
 #### 2. Instalación Paso a Paso
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/detector-de-gestos.git
+git clone https://github.com/JavierYago/detector_de_gestos.git
 cd detector-de-gestos
 
 # 2. Crear entorno virtual
@@ -94,7 +94,7 @@ You need Python 3.10 installed (recommended for MediaPipe compatibility).
 #### 2. Installation Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/detector-de-gestos.git
+git clone https://github.com/JavierYago/detector_de_gestos.git
 cd detector-de-gestos
 
 # 2. Create virtual environment
